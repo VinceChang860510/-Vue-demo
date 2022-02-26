@@ -1,0 +1,11 @@
+[13-Aug-2020 10:52:57 Asia/Taipei] PHP Warning:  require_once(./phpmailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/taipeiarakawahct/public_html/PHPMailer-5.2-stable/example.php on line 2
+[13-Aug-2020 10:52:57 Asia/Taipei] PHP Fatal error:  require_once(): Failed opening required './phpmailer/PHPMailerAutoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/taipeiarakawahct/public_html/PHPMailer-5.2-stable/example.php on line 2
+[13-Aug-2020 16:18:24 Asia/Taipei] PHP Fatal error:  Class 'SMTP' not found in /home/taipeiarakawahct/public_html/PHPMailer/class.phpmailer.php on line 1537
+[13-Aug-2020 16:18:33 Asia/Taipei] PHP Fatal error:  Class 'SMTP' not found in /home/taipeiarakawahct/public_html/PHPMailer/class.phpmailer.php on line 1537
+[13-Aug-2020 16:19:02 Asia/Taipei] PHP Fatal error:  Class 'SMTP' not found in /home/taipeiarakawahct/public_html/PHPMailer/class.phpmailer.php on line 1537
+[13-Aug-2020 16:19:09 Asia/Taipei] PHP Fatal error:  Class 'SMTP' not found in /home/taipeiarakawahct/public_html/PHPMailer/class.phpmailer.php on line 1537
+[13-Aug-2020 16:23:15 Asia/Taipei] PHP Fatal error:  Class 'SMTP' not found in /home/taipeiarakawahct/public_html/PHPMailer/class.phpmailer.php on line 1537
+[13-Aug-2020 16:23:23 Asia/Taipei] PHP Fatal error:  Class 'SMTP' not found in /home/taipeiarakawahct/public_html/PHPMailer/class.phpmailer.php on line 1537
+[13-Aug-2020 16:23:28 Asia/Taipei] PHP Fatal error:  Class 'SMTP' not found in /home/taipeiarakawahct/public_html/PHPMailer/class.phpmailer.php on line 1537
+[13-Aug-2020 16:54:22 Asia/Taipei] PHP Fatal error:  Class 'SMTP' not found in /home/taipeiarakawahct/public_html/PHPMailer/class.phpmailer.php on line 1537
+[13-Aug-2020 17:02:24 Asia/Taipei] PHP Fatal error:  Class 'SMTP' not found in /home/taipeiarakawahct/public_html/PHPMailer/class.phpmailer.php on line 1537
